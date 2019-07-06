@@ -14,7 +14,7 @@ mongoose
 
 
 app.get('/', (req,res) => res.json({
-	msg: "Hello! friends"
+	msg: "Hello! friends !!!"
 }));
 
 app.post('/users', (req, res) => {
